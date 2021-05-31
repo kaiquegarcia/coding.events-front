@@ -1,4 +1,10 @@
-# coding.events-front
+# [Coding.Events](https://coding.events/) - Front-End Project
+
+Tech stack:
+- Vue.js 3
+- vue-router
+- vuex
+- vue-pwa
 
 ## Project setup
 ```
