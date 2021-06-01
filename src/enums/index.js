@@ -1,9 +1,9 @@
-import PrivacyEnum from "./data/PrivacyEnum";
-import OrganizationStatusEnum from "./data/OrganizationStatusEnum";
-import OrganizationManagerStatusEnum from "./data/OrganizationManagerStatusEnum";
-import ScheduleStatusEnum from "./data/ScheduleStatusEnum";
-import SuggestionStatusEnum from "./data/SuggestionStatusEnum";
-import MainScheduleStatusEnum from "./data/MainScheduleStatusEnum";
+import PrivacyEnum from "./modules/PrivacyEnum";
+import OrganizationStatusEnum from "./modules/OrganizationStatusEnum";
+import OrganizationManagerStatusEnum from "./modules/OrganizationManagerStatusEnum";
+import ScheduleStatusEnum from "./modules/ScheduleStatusEnum";
+import SuggestionStatusEnum from "./modules/SuggestionStatusEnum";
+import MainScheduleStatusEnum from "./modules/MainScheduleStatusEnum";
 
 export {
   PrivacyEnum as PrivacyEnum,
