@@ -3,6 +3,7 @@ const OrganizationManagerStatusEnum = Object.freeze({
   ACTIVE: "active",
   DENIED: "denied",
   REVOKED: "revoked",
+  includes: (value) => Object.values(OrganizationManagerStatusEnum).includes(value),
 });
 
 export default OrganizationManagerStatusEnum;
